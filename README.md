@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheJake289781
-- 👀 I’m interested in skateboarding, gaming and going to your moms ho-
-- 🌱 I’m currently learning C#/Java
+- 👀 I’m interested in going to your moms ho-
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me discord: lil jakeBTW#5026
 
